@@ -1,0 +1,12 @@
+Radio sites Outage in North1Caused by: Dual OFC cut observed in ITR metro PTN network. 
+
+•            Barakahu to IBA-2 Data Center @ 13:02 Hrs 
+
+•            Malach to Data Center IBA-1 @ 17:23 Hrs
+
+Impact:
+
+Outage: PTCL: IP: 2 x Mallach-S5332-OTT Switches inaccessible
+
+ZONG: 30 x VSAT sites
+Major affected areas: Kohat and adjoining areas
